@@ -1,3 +1,3 @@
 # simple-crm
-early ALPHA =)
+Набросок
 https://lilninja.github.io/simple-crm/
